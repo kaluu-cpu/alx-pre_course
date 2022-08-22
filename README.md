@@ -1,2 +1,3 @@
 My first readme
-I am loving this
+I am currently in ALX
+I am loving it here😊
